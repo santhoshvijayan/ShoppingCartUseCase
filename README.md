@@ -20,7 +20,7 @@ Make sure you have [Node.js](http://nodejs.org/) installed.
 
 
 $ git clone or download
-$ cd folder
+$ cd santhosh-shoppingcar-demo
 $ npm install
 $ npm start
 
@@ -29,8 +29,10 @@ Shooping cart should be running on port 4000
 
 ## Back End
 
+$ cd spring-boot-backend
+$ mvn clean
 $ mvn package
-$ java -jar target/todoapp-1.0.0.jar
+$ java -jar target/ShoppingCart-0.0.1-SNAPSHOT.jar
 
 or
 
