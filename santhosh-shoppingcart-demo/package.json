@@ -7,10 +7,10 @@
     "start": "nodemon ./server/app.js",
     "inspect": "node --debug ./server/app.js"
   },
-  "author": "Yaroslav Zaklinsky",
+  "author": "santhosh Kumar Vijayarangan",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yaroslav0507/FullStackJS.git"
+    "url": "https://github.com/santhoshvijayan/ShoppingCartUseCase"
   },
   "license": "ISC",
   "devDependencies": {
