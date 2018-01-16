@@ -1,4 +1,4 @@
-# Shopping Cart demo for Test purpose 
+# Shopping Cart demo App
 
 ## Stack of technologies
 	## Back End
